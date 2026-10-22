@@ -1,0 +1,74 @@
+[
+  {
+    "case": "Base",
+    "cell": "D7",
+    "value": 13837306.4133798,
+    "difference": 0.0
+  },
+  {
+    "case": "Base",
+    "cell": "D8",
+    "value": 2224186.6018308406,
+    "difference": 4.656612873077393E-10
+  },
+  {
+    "case": "Base",
+    "cell": "D9",
+    "value": 1396729.479985981,
+    "difference": -2.3283064365386963E-10
+  },
+  {
+    "case": "Base",
+    "cell": "D10",
+    "value": 2296729.4799859812,
+    "difference": 0.0
+  },
+  {
+    "case": "Downside",
+    "cell": "D7",
+    "value": 11653012.761351792,
+    "difference": 0.0
+  },
+  {
+    "case": "Downside",
+    "cell": "D8",
+    "value": 984034.1077978276,
+    "difference": 8.149072527885437E-10
+  },
+  {
+    "case": "Downside",
+    "cell": "D9",
+    "value": 104735.57282641364,
+    "difference": 3.7834979593753815E-10
+  },
+  {
+    "case": "Downside",
+    "cell": "D10",
+    "value": 1004735.5728264138,
+    "difference": 3.4924596548080444E-10
+  },
+  {
+    "case": "Upside",
+    "cell": "D7",
+    "value": 14897141.203121198,
+    "difference": 0.0
+  },
+  {
+    "case": "Upside",
+    "cell": "D8",
+    "value": 2748711.1689731902,
+    "difference": 4.656612873077393E-10
+  },
+  {
+    "case": "Upside",
+    "cell": "D9",
+    "value": 2039559.8831067055,
+    "difference": 0.0
+  },
+  {
+    "case": "Upside",
+    "cell": "D10",
+    "value": 2939559.8831067057,
+    "difference": 4.656612873077393E-10
+  }
+]
