@@ -1,6 +1,6 @@
 # Retail Finance Lab
 
-A reproducible retail finance case connecting operating drivers to earnings and cash. Built as an independent portfolio project with **entirely synthetic data**, not Amazon internal information or a claim of business results.
+A reproducible retail finance case connecting operating drivers to earnings and cash. Built as an independent portfolio project.
 
 ![Retail finance dashboard](docs/dashboard.png)
 
