@@ -83,6 +83,6 @@ This is an operating forecast, not a full GAAP three-statement model. Inventory 
 
 ## Why this case
 
-The project demonstrates analytical decision support, advanced Excel, financial modeling, reproducible data handling and communication of business tradeoffs. Amazon's [Accounting AFRP posting](https://www.amazon.jobs/en/jobs/10507283/amazon-finance-rotational-program-afrp-accounting-early-career-2026) supplied the skills context. The project is independently designed and is not an Amazon assignment or endorsed product.
+The project demonstrates analytical decision support, advanced Excel, financial modeling, reproducible data handling and communication of business tradeoffs.
 
 MIT licensed.
